@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://howtodevops.blog',
   pathPrefix: '/',
   title: 'Howto DevOps Blog by Ruan Bekker',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Posts, tips, tutorials and everyday findings on DevOps topics.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -26,17 +26,17 @@ module.exports = {
   ],
   author: {
     name: 'Ruan Bekker',
-    photo: '/photo.jpg',
-    bio: 'Posts, tips, tutorials and everyday findings on DevOps topics.',
+    photo: '/profile-photo.png',
+    bio: 'Posts on AWS, Containers, Linux, Automation. Tips, Tutorials and Everyday Findings on DevOps Topics.',
     contacts: {
-      email: '',
+      email: 'ruan@ruanbekker.com',
       facebook: '#',
       telegram: '#',
-      twitter: 'https://twitter.com/ruanbekker',
-      github: '#',
+      twitter: 'ruanbekker',
+      github: 'ruanbekker',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'ruanbekker',
       instagram: '#',
       line: '',
       gitlab: '',
