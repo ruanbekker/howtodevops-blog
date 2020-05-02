@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Howto DevOps Blog by Ruan Bekker',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -25,14 +25,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Ruan Bekker',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Posts, tips, tutorials and everyday findings on DevOps topics.',
     contacts: {
       email: '',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
+      twitter: 'https://twitter.com/ruanbekker',
       github: '#',
       rss: '',
       vkontakte: '',
